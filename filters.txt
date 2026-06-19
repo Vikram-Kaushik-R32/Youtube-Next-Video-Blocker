@@ -1,2 +1,14 @@
-www.youtube.com##.ytp-modern-videowall-still 
+! Core
+www.youtube.com##.ytp-modern-videowall-still
+www.youtube.com##.ytp-suggestion-set
+
+! End-screen cards
+www.youtube.com##.ytp-ce-element
+
+! Video cards and teasers
+www.youtube.com##.ytp-cards-teaser
+www.youtube.com##.ytp-cards-button
+
+! Shorts shelf
+www.youtube.com##ytd-rich-shelf-rendererwww.youtube.com##.ytp-modern-videowall-still 
 www.youtube.com##.ytp-suggestion-set
